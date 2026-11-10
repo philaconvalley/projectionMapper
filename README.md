@@ -150,4 +150,4 @@ The code uses the MIT license. See `LICENSE`. p5.js uses the LGPL 2.1 license.
 ## PhilaCon Valley
 
 A Philadelphia tech community, by us, for us. Come build with us:
-[Discord](https://discord.gg/fxUfeSbFZM).
+[Discord](https://philaconvalley.com/discord).

@@ -50,7 +50,7 @@ attendee's copy depends on it, so we plan changes to it before anyone writes cod
 2. Leave a comment that says you are taking it.
 3. A maintainer, @traksaw or @JayTurn93, assigns the issue to you. Wait for that before you start,
    so two people do not do the same work.
-4. Stuck? Ask in the issue or in [Discord](https://discord.gg/fxUfeSbFZM).
+4. Stuck? Ask in the issue or in [Discord](https://philaconvalley.com/discord).
 5. If you stop, say so in the issue, so someone else can take it.
 
 ## Test before you open a pull request
